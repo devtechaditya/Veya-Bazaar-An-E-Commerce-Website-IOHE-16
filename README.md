@@ -1,5 +1,3 @@
-# Veya-Bazaar-An-E-Commerce-Website-IOHE-16
-
 # 🛍️ Veya Bazaar
 ### *Your Modern Marketplace — Shop Smart, Shop Seamlessly.*
 
