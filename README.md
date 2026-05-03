@@ -307,8 +307,8 @@ This project was designed and developed collaboratively by the following team me
 
 | 👤 Name | 🎓 Roll Number | 🔧 Role |
 |---|---|---|
-| **Aditya Jaiswal** | 2210990990 | Full Stack Developer & Project Lead |
-| **Simran Dora** | 2210990851 | Frontend Developer & UI/UX Designer |
+| **Aditya Jaiswal** | 2210990990 | Frontend Developer & UI/UX Designer | 
+| **Simran Dora** | 2210990851 | Full Stack Developer & Project Lead |
 | **Ramandeep Singh** | 2210992137 | Backend Developer & Database Administrator |
 | **Chinar Gupta** | 2210994778 | API Integration & Quality Assurance |
 
@@ -321,7 +321,7 @@ This project was designed and developed collaboratively by the following team me
 | 📚 **Subject** | IOHE-16 |
 | 🏫 **Institution** | Chitkara University, Rajpura |
 | 🎓 **Program** | Bachelor of Engineering (Computer Science) |
-| 📅 **Academic Year** | 2025–2026 |
+| 📅 **Academic Year** | 2022–2026 |
 | 📝 **Project Type** | Final Year Group Project |
 
 This project was undertaken as part of the final-year curriculum under subject **IOHE-16** at **Chitkara University, Rajpura**. It demonstrates the practical application of software engineering principles including full-stack development, RESTful API design, database management, responsive UI design, and collaborative development workflows.
@@ -443,7 +443,7 @@ We would like to express our sincere gratitude to the following:
 ---
 
 <p align="center">
-  Made with ❤️ by Team Veya Bazaar &nbsp;|&nbsp; Chitkara University, Rajpura &nbsp;|&nbsp; 2025–2026
+  Made with Love By Team Veya Bazaar &nbsp;|&nbsp; Chitkara University, Rajpura &nbsp;|&nbsp; 2022–2026
 </p>
 
 <p align="center">
